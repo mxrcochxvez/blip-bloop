@@ -1,0 +1,18 @@
+body {
+    background-color: #ff8c00;
+    color: white;
+    overflow: hidden;
+}
+
+.home {
+    background-color: white;
+}
+
+.test {
+    background-color: rgba(0, 0, 0, 0.349);
+}
+
+.menu-text {
+    -webkit-text-stroke-width: .2px;
+    -webkit-text-stroke-color: black;
+}
